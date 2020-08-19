@@ -2,7 +2,7 @@ title: Erie Cycling Adventures
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: https://eriecyclingadventures.github.io/
-baseurl: "eriecyclingadventures.github.io/"
+baseurl: "https://eriecyclingadventures.github.io/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
