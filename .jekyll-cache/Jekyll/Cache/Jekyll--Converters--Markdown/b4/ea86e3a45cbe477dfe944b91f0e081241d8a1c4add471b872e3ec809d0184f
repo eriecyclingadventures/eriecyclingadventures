@@ -1,0 +1,58 @@
+I"—<div class="post">
+	<h1 class="pageTitle">Bicycle Routes1</h1>
+	<img src="/assets/img/touring.jpg" alt="" />
+<ul>
+  
+    <li>
+      <a href="/about/">About Long Haul</a>
+    </li>
+  
+    <li>
+      <a href="/articles/">Your New Jekyll Site</a>
+    </li>
+  
+    <li>
+      <a href="/contact/">Contact Long Haul</a>
+    </li>
+  
+    <li>
+      <a href="/feed.xml"></a>
+    </li>
+  
+    <li>
+      <a href="/">Erie Cycling Adventures</a>
+    </li>
+  
+    <li>
+      <a href="/routes/">Bicycle Routes</a>
+    </li>
+  
+    <li>
+      <a href="/blog/page2/">Erie Cycling Adventures</a>
+    </li>
+  
+</ul>
+
+ 
+                 <li class="element first  ">
+                     <a href="/index.html">Home</a>
+                 </li> 
+                 
+                 <li class="element   ">
+                     <a href="/about">About</a>
+                 </li> 
+                 
+                 <li class="element   ">
+                     <a href="/contact">Contact</a>
+                 </li> 
+                 
+                 <li class="element  current last">
+                     <a href="/routes">Bicycle Routes</a>
+                 </li> 
+                 
+
+
+	
+  	
+</div>
+:ET

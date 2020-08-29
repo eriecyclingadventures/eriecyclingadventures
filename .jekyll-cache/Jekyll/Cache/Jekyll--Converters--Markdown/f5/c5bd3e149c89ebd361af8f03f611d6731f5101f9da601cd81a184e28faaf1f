@@ -1,16 +1,12 @@
----
-layout: default
-title: About Long Haul
----
-
-<div class="post">
+I"•<div class="post">
 	<h1 class="pageTitle">About Erie Cycling Adventures</h1>
-	<img src="{{ '/assets/img/lightingp38.png' | prepend: site.baseurl }}" alt="">
+	<img src="/assets/img/lightingp38.png" alt="" />
 	<p class="intro">Erie Cycling Adventure is about providing maps and routes for bicycle adventures in the Erie, Pa Area. I will also post my cycling adventures  on the blog. I started riding in 1986 with the Lakeside Bicycle Association. I bought a Trek upright bike, but now I just ride recumbent becasue of neck problems.</p>
-	<p>Erie Cycling Adventures was created in honor of all the hard working touring bicycles When I not riding, I home on the computer learning how to code with Free Code Camp </p>
+	<p>Erie Cycling Adventures was created in honor of all the hard working touring bicycles </p>
 	<h2>Features</h2>
 	<ul>
 		<li>There will be bicycle ride posted using  ride by gps.</li>
   		
   	</ul>
 </div>
+:ET
