@@ -1,0 +1,13 @@
+I"~<div id="articles">
+  <h1>Articles</h1>
+  <ul class="posts noList">
+    
+      <li>
+      	<span class="date">06 Sep 2020</span>
+      	<h3><a href="/blog/test-post/">Under Construction</a></h3>
+      	<p class="description">This site is under construction. This web site will be dedicated to Bike routes,Bike Tours around or neer Erie County...</p>
+      </li>
+    
+  </ul>
+</div>
+:ET

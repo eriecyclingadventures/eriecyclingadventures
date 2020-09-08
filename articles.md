@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Your New Erie Cycling Adventures
 ---
 
 <div id="articles">

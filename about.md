@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: About Erie Cycling Adventures
 ---
 
 <div class="post">

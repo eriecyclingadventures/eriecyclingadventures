@@ -1,14 +1,14 @@
-I"{<div class="post">
-	<h1 class="pageTitle">Bicycle Routes1</h1>
+I",<div class="post">
+	<h1 class="pageTitle">Bicycle Routes</h1>
 	<img src="/assets/img/touring.jpg" alt="" />
 <ul>
   
     <li>
-      <a href="/about/">About Long Haul</a>
+      <a href="/about/">About Erie Cycling Adventures</a>
     </li>
   
     <li>
-      <a href="/articles/">Your New Jekyll Site</a>
+      <a href="/articles/">Your New Erie Cycling Adventures</a>
     </li>
   
     <li>
@@ -20,7 +20,7 @@
     </li>
   
     <li>
-      <a href="/">Long Haul</a>
+      <a href="/">Erie Cycling Adventures</a>
     </li>
   
     <li>
@@ -28,7 +28,7 @@
     </li>
   
     <li>
-      <a href="/blog/page2/">Long Haul</a>
+      <a href="/tours/">Bicycle Tours</a>
     </li>
   
 </ul>
@@ -46,8 +46,12 @@
                      <a href="/contact">Contact</a>
                  </li> 
                  
-                 <li class="element  current last">
+                 <li class="element  current ">
                      <a href="/routes">Bicycle Routes</a>
+                 </li> 
+                 
+                 <li class="element   last">
+                     <a href="/tours">Bicycle Tours</a>
                  </li> 
                  
 

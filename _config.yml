@@ -20,12 +20,14 @@ navigation:
     url: /contact
   - title: Bicycle Routes
     url: /routes  
+  - title: Bicycle Tours
+    url: /tours 
 
 social:
   github: brianmaierjr
   twitter: brianmaierjr
   facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  email: me@gmail.com
   linkedin: brianmaierjr
 
 google_analytics: "UA-58263416-1"
