@@ -15,3 +15,13 @@ title: Your New Erie Cycling Adventures
     {% endfor %}
   </ul>
 </div>
+
+<!-- Write your comments here 
+git add --all
+
+git commit -m "update under construction"
+
+git push -u origin master
+
+
+-->
